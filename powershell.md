@@ -5,7 +5,7 @@
    - Snapins.
    - Module.
 | Syntax      | Description |
-| :---        |    :----:   |
+| :----:       |    :----:   |
 | $PSVersionTable | Display PS version |
 | Get-PSSnapin | commands in Snapin (for 1.0 v) |
 | Get-PSSnapin -Registered |  commands in Registered Snapin |
