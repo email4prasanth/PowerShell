@@ -5,14 +5,11 @@
    - Snapins.
    - Module.
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+
 | Syntax      | Description |
 | :----       |     ----:   |
 | $PSVersionTable | Display PS version |
-<!-- | Get-PSSnapin | commands in Snapin (for 1.0 v) |
+| Get-PSSnapin | commands in Snapin (for 1.0 v) |
 | Get-PSSnapin -Registered |  commands in Registered Snapin |
 | Get-Module | Available Modules |
 | Get-Module -ListAvailable | List of Commands in Module |
@@ -25,4 +22,4 @@
 | Get-Command -verb get -Noun *service* | To get Commands with naming convention |
 | get-aduser -Filter * | Active Directory is not available so it wont work |
 | $env:PSModulePath | Path where enviroment variables are stored |
-| Get-Service | Display status of service | -->
+| Get-Service | Display status of service |
